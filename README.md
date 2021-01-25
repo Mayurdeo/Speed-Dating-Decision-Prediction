@@ -98,7 +98,7 @@ svm(trainingSet,testSet,stepSize,maxIterations,threshold,lamda)
 ```
 The algorithm acheieved a training and testing accuracy of **78 percent** and **73 percent** respectively and the training and validation plots are shown below.
 
-| ![svm](svm/lr_svm.JPG) | 
+| ![svm](svm/lr_svm.jpg) | 
 |:--:| 
 | *Comparison of Accuracies over various algorithms* | 
 
@@ -144,7 +144,7 @@ modelIdx=int(input("Enter model index : eg.1 or 2 or 3"))
 
 In addition to the implementation of decisioin tree, I included ensemble models like bagging and random forests to improve the performance and obtained a training accuracy of **87 percent** and testing accuracy of **85 percent** for Random forests model which was the best model obtained.
 
-| ![trees_one](images/trees/depth.PNG) |  ![trees_two](images/trees/numberoftrees.PNG)
+| ![trees_one](images/trees/depth.png) |  ![trees_two](images/trees/numberoftrees.png)
 |:--:| :--:
 | *Accuracy based on varying depth* | *Accuracy based on varying number of trees*
 
