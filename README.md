@@ -98,7 +98,7 @@ svm(trainingSet,testSet,stepSize,maxIterations,threshold,lamda)
 ```
 The algorithm acheieved a training and testing accuracy of **78 percent** and **73 percent** respectively and the training and validation plots are shown below.
 
-| ![svm](images/svm/lr_svm.jpeg) | 
+| ![svm](images/lr_svm.jpeg) | 
 |:--:| 
 | *Comparison of Accuracies over various algorithms* | 
 
